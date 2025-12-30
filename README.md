@@ -1,5 +1,19 @@
 # 💫 About Me:
-recentlyy graduated <br>android devloper <br>ux/ui designer<br>flutter
+👋 Hello! I’m Akshay Patra
+
+I’m an aspiring software developer passionate about mobile app development using **Flutter**.  
+I’m currently building a full-featured app called **Memory Chain**, where users can store and share family voice histories, images, videos, and memories.
+
+🔧 Tech I work with:
+- Flutter & Dart
+- Supabase (Auth, Database, Storage)
+- UI/UX-focused mobile design
+
+📚 Interests:
+- App architecture & clean code
+- Modern 2025-style UI design
+- Learning backend concepts through real projects
+
 
 
 ## 🌐 Socials:
