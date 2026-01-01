@@ -17,7 +17,7 @@ with a strong interest in backend development using the MERN stack and clean, sc
 - Mobile-first application architecture
 - Backend APIs & authentication
 - Clean code & scalable systems
-- Modern, minimal 2025-style UI/UX design
+- Modern, minimal style UI/UX design
 
 🔗 Currently:
 
