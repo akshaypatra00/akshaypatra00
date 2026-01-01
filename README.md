@@ -1,19 +1,29 @@
-# 💫 About Me:
+💫 About Me:
+
 👋 Hello! I’m Akshay Patra
 
-I’m an aspiring software developer passionate about mern full stack development and mobile app development using **Flutter**.  
-
+I’m a Full-Stack & Mobile App Developer focused on building real-world, user-centric applications. I primarily work on mobile app development using Flutter,
+with a strong interest in backend development using the MERN stack and clean, scalable architectures.
 
 🔧 Tech I work with:
+
 - Flutter & Dart
+- Node.js & Express (Backend APIs)
 - Supabase (Auth, Database, Storage)
-- UI/UX-focused mobile design
+- UI/UX-focused product design
 
 📚 Interests:
-- App architecture & clean code
-- Modern 2025-style UI design
-- Learning backend concepts through real projects
 
+- Mobile-first application architecture
+- Backend APIs & authentication
+- Clean code & scalable systems
+- Modern, minimal 2025-style UI/UX design
+
+🔗 Currently:
+
+- Building and improving real-world projects
+- Expanding full-stack backend skills
+- Exploring better app architecture and performance
 
 
 ## 🌐 Socials:
