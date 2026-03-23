@@ -1,11 +1,13 @@
 💫 About Me:
 
-👋 Hello! I’m Akshay Pat
-I’m a Full-Stack & Mobile App Developer focused on building real-world, user-ic applications. I primarily work on mobile app development using Flutter,
-with a strong interest in backend development using the N stack alean, scalable architectures.
+👋 Hello! I’m Akshay Patra
 
-🔧 Tech I work wi
-- Flutter & 
+I’m a Full-Stack & Mobile App Developer focused on building real-world, user-centric applications. I primarily work on mobile app development using Flutter,
+with a strong interest in backend development using the MERN stack and clean, scalable architectures.
+
+🔧 Tech I work with:
+
+- Flutter & Dart
 - Node.js & Express (Backend APIs)
 - Supabase (Auth, Database, Storage)
 - UI/UX-focused product design
