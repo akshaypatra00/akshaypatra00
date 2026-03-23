@@ -7,7 +7,7 @@ with a strong interest in backend development using the MERN stack and clean, sc
 
 🔧 Tech I work with:
 
-- Flutter & Dart
+- Flutter & 
 - Node.js & Express (Backend APIs)
 - Supabase (Auth, Database, Storage)
 - UI/UX-focused product design
