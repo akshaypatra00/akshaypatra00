@@ -5,8 +5,7 @@
 I’m a Full-Stack & Mobile App Developer focused on building real-world, user-centric applications. I primarily work on mobile app development using Flutter,
 with a strong interest in backend development using the MERN stack and clean, scalable architectures.
 
-🔧 Tech I work with:
-
+🔧 Tech I work wi
 - Flutter & 
 - Node.js & Express (Backend APIs)
 - Supabase (Auth, Database, Storage)
